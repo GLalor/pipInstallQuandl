@@ -1,3 +1,8 @@
 #!/usr/bin/env bash
 
-/usr/bin/anaconda/envs/py36/bin/pip install quandl
+for entry in "/usr/bin/anaconda/envs/"/*
+do
+  echo "$entry"
+done
+
+/usr/bin/anaconda/envs/py35/bin/pip install quandl
