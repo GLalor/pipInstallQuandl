@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-/env/bin/pip install quandl
+/usr/bin/anaconda/bin/conda install -c conda-forge quandl
