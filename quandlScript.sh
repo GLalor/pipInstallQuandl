@@ -1,3 +1,3 @@
 #!/usr/bin/env bash
 
-/usr/bin/anaconda/envs/py35/bin/pip install quandl
+/usr/bin/anaconda/envs/py36/bin/pip install quandl
